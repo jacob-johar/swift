@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Cart
 //
-//  Created by Sreelekshmi S on 28/06/17.
-//  Copyright © 2017 Sreelekshmi S. All rights reserved.
 //
 
 import UIKit
